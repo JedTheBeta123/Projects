@@ -1,6 +1,6 @@
 @media only screen and (max-width : 1028px) {
   .hero {
-    background: url('images/important.png');
+    background: url('images/important.png') no-repeat center center auto;
     height: auto;
   }
 
